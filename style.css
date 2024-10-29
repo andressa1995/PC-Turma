@@ -10,16 +10,13 @@ section {
         display: flex;
         justify-content: center;
 }
-
 .chamada-texto {
 
         margin-right: 5%;
 }
-
 img{
         height: 200px;
 }
-
 .categoria-videos {
         display: flex;
         overflow-x: auto;
